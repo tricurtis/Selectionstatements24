@@ -1,0 +1,14 @@
+C:\Users\tricu\OneDrive\Desktop\repos\Selectionstatments24\Selectionstatments24\bin\Debug\net8.0\Selectionstatments24.exe
+C:\Users\tricu\OneDrive\Desktop\repos\Selectionstatments24\Selectionstatments24\bin\Debug\net8.0\Selectionstatments24.deps.json
+C:\Users\tricu\OneDrive\Desktop\repos\Selectionstatments24\Selectionstatments24\bin\Debug\net8.0\Selectionstatments24.runtimeconfig.json
+C:\Users\tricu\OneDrive\Desktop\repos\Selectionstatments24\Selectionstatments24\bin\Debug\net8.0\Selectionstatments24.dll
+C:\Users\tricu\OneDrive\Desktop\repos\Selectionstatments24\Selectionstatments24\bin\Debug\net8.0\Selectionstatments24.pdb
+C:\Users\tricu\OneDrive\Desktop\repos\Selectionstatments24\Selectionstatments24\obj\Debug\net8.0\Selectionstatments24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tricu\OneDrive\Desktop\repos\Selectionstatments24\Selectionstatments24\obj\Debug\net8.0\Selectionstatments24.AssemblyInfoInputs.cache
+C:\Users\tricu\OneDrive\Desktop\repos\Selectionstatments24\Selectionstatments24\obj\Debug\net8.0\Selectionstatments24.AssemblyInfo.cs
+C:\Users\tricu\OneDrive\Desktop\repos\Selectionstatments24\Selectionstatments24\obj\Debug\net8.0\Selectionstatments24.csproj.CoreCompileInputs.cache
+C:\Users\tricu\OneDrive\Desktop\repos\Selectionstatments24\Selectionstatments24\obj\Debug\net8.0\Selectionstatments24.dll
+C:\Users\tricu\OneDrive\Desktop\repos\Selectionstatments24\Selectionstatments24\obj\Debug\net8.0\refint\Selectionstatments24.dll
+C:\Users\tricu\OneDrive\Desktop\repos\Selectionstatments24\Selectionstatments24\obj\Debug\net8.0\Selectionstatments24.pdb
+C:\Users\tricu\OneDrive\Desktop\repos\Selectionstatments24\Selectionstatments24\obj\Debug\net8.0\Selectionstatments24.genruntimeconfig.cache
+C:\Users\tricu\OneDrive\Desktop\repos\Selectionstatments24\Selectionstatments24\obj\Debug\net8.0\ref\Selectionstatments24.dll

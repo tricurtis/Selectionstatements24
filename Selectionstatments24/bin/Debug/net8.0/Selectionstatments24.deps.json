@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Selectionstatments24/1.0.0": {
+        "runtime": {
+          "Selectionstatments24.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Selectionstatments24/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
